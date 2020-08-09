@@ -7,8 +7,8 @@
 #include <BlynkSimpleEsp8266.h>
 
   // Your WiFi credentials
-char ssid[] = "Ermahgerd, Wi-Fi!";
-char pass[] = "basicspider402";
+char ssid[] = "";
+char pass[] = "";
  
   
 // You should get Auth Token in the Blynk App.
